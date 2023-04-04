@@ -1,0 +1,106 @@
+body{
+  background-color: hsl( 225deg 9.5238095238% 8.2352941176% );
+  color: white;
+  margin-top: 25px;
+  
+}
+ 
+ 
+ .barra-de-busqueda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: -26px;
+    
+ }
+
+ .barra-de-busqueda> .barra{
+   width: 73%;
+   height: 35px;
+   background-color: hsl( 225deg 9.5238095238% 8.2352941176% );
+   
+  }
+
+ .links-de-navegacion img {
+   width: 90px;
+   height: 40px;
+ }
+
+ .botones{
+   display: flex;
+   justify-content: right;
+   width: 98%;
+   margin-top:-37px;
+   height:38px ;
+   
+ }
+
+ .btn1{
+ background-color: green;
+ border-radius: 5px;
+ width:70px ;
+ }
+ .btn2{
+  width: 70px;
+  height: 40p;
+  margin-left:5px ;
+  border-radius: 5px;
+  background-color:hsl( 225deg 9.5238095238% 8.2352941176% ) ;
+  color: white;
+}
+
+ .informacion-central{
+  position: relative;
+  padding-left: 300px;
+  margin-top: 100px;
+  
+ }
+ .informacion-central img{
+  width: 50px;
+  color: white;
+
+ }
+
+ .logo img{
+  margin-top: 20px; 
+}
+
+ .parrafo{
+  display: flex;
+ }
+
+
+ .btng{
+  margin-left: 300px;
+  margin-top: 20px;
+  background-color:green ;
+  border-radius: 5px;
+  width:150px;
+  height: 55px;
+ }
+
+ .links-pro {
+  display: flex;
+  ;
+ }
+
+ .links-pro > h4 {
+  background-color: goldenrod;
+  border-radius: 5px;
+  
+ }
+
+ .boton {
+  display: flex;
+  justify-content: space-between;
+ }
+ .cuadros img {
+height: 400px;
+margin-right:  300px;
+margin-top: -300px;
+ }
+
+ .otros-cuadros img {
+  padding-left:  170px;
+ }
